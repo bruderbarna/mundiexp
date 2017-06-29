@@ -1,6 +1,7 @@
 # mundiexp
 photo blog of my experiences during my Campus Mundi scholarship.
 
+
 #basic idea
 This is a fairly simple google app engine application.
 There is a folder for markdown files, and a folder for image files.
